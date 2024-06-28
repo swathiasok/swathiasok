@@ -108,5 +108,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swathiasok&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swathiasok)](https://github.com/swathiasok/github-readme-stats)
 [![Swathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=swathiasok&show_icons=true&theme=rose_pine)](https://github.com/swathiasok/github-readme-stats)
