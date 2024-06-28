@@ -114,12 +114,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=swathiasok&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/swathiasok/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swathiasok&repo=github-readme-stats&theme=dark" />
-  </a>
-  <a href="https://github.com/swathiasok/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swathiasok&repo=portfolio&theme=dark" />
-  </a>
-</p>
-
