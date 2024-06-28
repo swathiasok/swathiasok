@@ -99,7 +99,6 @@
                     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
                 </a> 
             </td>
-            
         </tr>
         <tr><td>
             <h4>Frameworks</h4>
@@ -131,8 +130,6 @@
                     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
                 </a> 
             </td>
-            
-            
         </tr>
         <tr><td>
             <h4>DevOps</h4>
