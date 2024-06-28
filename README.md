@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/swathi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swathi14" height="30" width="40" /></a>
 </p>
 
-### Skills/Tools:
+### Tools/Skills:
 #### Programming Languages
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>](https://www.ruby-lang.org/en/)
