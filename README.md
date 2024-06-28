@@ -61,6 +61,6 @@
 [<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>](https://grafana.com/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathiasok&layout=compact&langs_count=6&theme=dark" alt="Top Languages" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api?username=swathiasok&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
+# <img src="https://github-readme-stats.vercel.app/api?username=swathiasok&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
 
 
