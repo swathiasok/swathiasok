@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NLP and LLM**
 
-- 👨‍💻 All of my projects are available in my Github Repo [here](https://github.com/swathiasok)
+- 👨‍💻 All of my projects are available in my [Github Repo](https://github.com/swathiasok)
 
 - 📫 How to reach me **asokraj@usc.edu**
 
-- 📄 Know about my experiences visa my Resume [here](https://drive.google.com/file/d/1_2pFxViQZ3utTqbmdLt2CI4_BSEhBauO/view?usp=share_link)
+- 📄 Know about my experiences visa my [Resume](https://drive.google.com/file/d/1_2pFxViQZ3utTqbmdLt2CI4_BSEhBauO/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
