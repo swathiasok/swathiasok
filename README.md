@@ -109,7 +109,17 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathiasok&layout=compact&langs_count=6&theme=dark" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swathiasok&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swathiasok&size_weight=0.5&count_weight=0.5)
+<p align="center">
+  <a href="https://github.com/swathiasok/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swathiasok&repo=github-readme-stats&theme=dark" />
+  </a>
+  <a href="https://github.com/swathiasok/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swathiasok&repo=portfolio&theme=dark" />
+  </a>
+</p>
 
-[![Swathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=swathiasok&show_icons=true&theme=rose_pine)](https://github.com/swathiasok/github-readme-stats)
