@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swathi Asokraj</h1>
 <h3 align="center">Current MS CS grad student at USC, passionate about technology and innovation.</h3>
 
-- 🔭 I’m currently working on [TrendTok]((https://github.com/swathiasok/TikTok-Trend-Fusion))
+- 🔭 I’m currently working on [TrendTok](https://github.com/swathiasok/TikTok-Trend-Fusion)
 
 - 🌱 I’m currently learning **NLP and LLM**
 
