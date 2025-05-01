@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **asokraj@usc.edu**
 
-- 📄 Know about my experiences via my [Resume](https://drive.google.com/file/d/1_2pFxViQZ3utTqbmdLt2CI4_BSEhBauO/view?usp=share_link)
+- 📄 Know about my experiences via my [Resume](https://drive.google.com/file/d/1JKtNIjnxmnwjxdiSnRhdoBZ8J0I9L32F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
