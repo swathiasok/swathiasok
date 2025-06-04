@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on building a [CodePlayground](https://github.com/swathiasok/CodePlayground)
 
-- 🌱 I’m currently learning **React and PHP**
+- 🌱 I’m currently learning **React and Hack**
 
 - 👨‍💻 All of my projects are available in my [Github Repo](https://github.com/swathiasok)
 
-- 📫 How to reach me **asokraj@usc.edu**
+- 📫 How to reach me **swathiasok14@gmail.com**
 
 - 📄 Know about my experiences via my [Resume](https://drive.google.com/file/d/1MD9z0nhj6UgUzhQrCznKcJVM2jHzEt2P/view?usp=drive_link)
 
